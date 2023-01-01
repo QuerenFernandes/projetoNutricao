@@ -5,12 +5,12 @@
 body{
 	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	background-color: #FFE3E1;
+	background-color: #D9F8C4;
 }
 
 header{
 	height: 3em;
-	color: black;
+	color: #554994;
 	font-weight: bold;
 	text-align: center;
 	margin-bottom: 1em;
@@ -38,6 +38,7 @@ header .container:before{
 	width: 60%;
 	height: 100%;
 	margin: 0 auto;
+	color: #554994;
 }
 
 section{
@@ -52,8 +53,8 @@ section h2{
 	display: block;
 	padding-bottom: .5em;
 	padding-top: .5em;
-	border-top: 2px solid #B2A4FF;
-	border-bottom: 2px solid #B2A4FF;
+	border-top: 1.5px solid #ccc;
+	border-bottom: 1.5px solid #ccc;
 	margin-bottom: .5em;
 }
 
