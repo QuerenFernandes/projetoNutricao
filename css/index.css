@@ -111,9 +111,10 @@ button{
 	cursor: pointer;
 	margin: 0;
 	margin-top: -3px;
-	color: #fff;
-	background-color:#0c8cd3;
-	border-color: #04324c;
+	color: #D9F8C4;
+	background-color:#554994;
+	border-color: #D9F8C4;
+	border-radius: 6px;
 	width: 20%;
     display: block;
     clear: both;
