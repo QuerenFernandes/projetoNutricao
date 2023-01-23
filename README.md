@@ -1,17 +1,7 @@
-# Nome do meu projeto
+# Projeto Nutrição
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido utilizando a linguagem JavaScript. Alterei um pouco o design do projeto para treinar um pouco do CSS. O projeto permite adicionar novos pacientes, remover, buscar pacientes adicionados e possui o código de integração com uma API, que foi uma introdução ao AJAX.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode acessar o projeto completo em: 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![imagem](https://user-images.githubusercontent.com/95857175/214170553-f62dfba5-1fe8-4468-a646-21235bb979ee.png#vitrinedev)
